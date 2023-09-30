@@ -1,0 +1,159 @@
+/* body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("https://mobimg.b-cdn.net/v3/fetch/df/df5391fee5683f2034ca45e1c4e4605a.jpeg");
+  }
+
+
+
+
+table{
+    width: 50%;
+    margin: 80px auto;
+    color: #eee;
+    
+}
+
+table input{
+    align-items: center;
+}
+
+
+#table-1{
+    
+    background:#0b162c;
+    
+    
+}
+
+/* #clubelist {
+    width: 50%;
+    margin: 80px auto;
+    color: #eee;
+    border-radius: 25px;
+} 
+
+thead{
+    height: 77%;
+}
+
+td{
+    border: 1px solid #f1eeee;
+    text-align: left;
+    padding: 8px 15px;
+
+}
+
+
+
+tr:nth-child(even), table.list thread> tr{
+    background-color: rgb(119, 119, 118);
+}
+
+
+
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255) ;
+    border-radius: 4px;
+}
+
+button{
+    background: #0567fa;
+    padding: 6px 12px;
+    margin: 15px 0 10px;
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    font-family: OCR A Std, monospace;
+}
+
+button:hover{
+    background: #053d6b;
+}
+
+.registro{
+    color: #eee ;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+    margin-top: 40px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#regiao{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255) ;
+    border-radius: 4px;
+    
+}
+
+#datafundacao{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255) ;
+    border-radius: 4px;
+}
+
+#clubelist {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 20px;
+  }
+  
+  #clubelist th {
+    background-color: #0567fa;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px;
+    text-align: left;
+    border-radius: 4px;
+    font-family: OCR A Std, monospace;
+    
+    
+  }
+  
+  #clubelist td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #clubelist tr:nth-child(odd) {
+    background-color: #2e2e2e;
+  }
+
+
+
+
+@media (max-width:480px){
+    header{
+        position:fixed;
+        width:100%;
+    }
+    .header-title{
+        font-size: 1.5rem;
+    }
+  
+    main{
+        padding: 0;
+        margin: 20px 0 0 0;
+        width:100%;
+        box-shadow: none;
+    }
+  }
+
+   */
